@@ -57,7 +57,7 @@ for x in range(0, 10000000):
         nextLocation = numpy.array([bestRoute[index+1]['x'],bestRoute[index+1]['y'],bestRoute[index+1]['z']])
         curRange = numpy.linalg.norm(nextLocation-curLocation)
         totalRange += curRange
-        print system['name'] + "\t\t\t\t" + str(curRange)
+        print ( "{:15}\t\t\t\t{:.2f}".format(system['name'], curRange) )
 
     print "Achenar"
     print bestRange
