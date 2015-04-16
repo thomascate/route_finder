@@ -42,7 +42,7 @@ permutations = itertools.permutations(targetSystems,len(targetSystems))
 
 for item in itertools.permutations(targetSystems, len(targetSystems)):
 
-  permTargetSystems = list(targetSystems)
+  permTargetSystems = list(item)
 
   permTargetSystems.append(startSystem)
   permTargetSystems.reverse()
