@@ -5,6 +5,21 @@ from pprint import pprint
 from elasticsearch import Elasticsearch
 arguments = get_input()
 
+illegalList = [
+  'Bast',
+  'HIP 59533',
+  'Alpha Centauri',
+  'Aerial',
+  'Eranin',
+  'Geras',
+  'Epsilon Indi',
+  'Kamitra',
+  'Kongga',
+  'Lave',
+  'Orrere',
+  'Rusani'
+]
+
 #get rares
 esQuery = {
   'query' : {
@@ -12,11 +27,17 @@ esQuery = {
       'must' : [
         { 'match' : { "_type" : "commodity" } },
         { 'match' : { "category_id" : 1000 } } 
+      ],
+      'must_not' : [
       ]
     }
   },
   'size': 1000
 }
+
+for index,good in enumerate(illegalList):
+  esQuery['query']['bool']['must_not'].append( { 'match' : { 'name' : good}} )
+pprint (esQuery)
 
 rares = esFastSearch(esHost,esPort,esIndex,esQuery)['hits']['hits']
 
@@ -60,6 +81,8 @@ esQuery = {
 
 currentSystem = esFastSearch(esHost,esPort,esIndex,esQuery)['hits']['hits'][0]['_source']
 
+#pprint(currentSystem)
+print ( "{} is the current system".format( currentSystem['name'] ) )
 for star in goodStars:
 
   if getSystemDistanceWithLoc(star, currentSystem) > 200:

@@ -193,6 +193,8 @@ def naiveFastSort(systems):
     del destSystems[delIndex]
     finalSystems.append(nextHop)
 
+  finalSystems.append(finalSystems[0])
+
   return finalSystems
 
 #This function expects a list in the same format as naiveFastSort, as well as
@@ -200,20 +202,21 @@ def naiveFastSort(systems):
 #the original list is returned
 def bruteForceSort(systems,target,limit):
 
-  startLocation = systems[0]
-  del systems[0]
-
   bestRange = target
   bestPath = systems
+  startSystem = systems[0]
+  endSystem = systems[-1]
+  del systems[0]
+  del systems[-1]
 
   for index, item in enumerate(itertools.permutations(systems)):
     if index > limit:
       break
 
     tempSystems = list(item)
-    tempSystems.append(startLocation)
+    tempSystems.append(endSystem)
     tempSystems = list(reversed(tempSystems))
-    tempSystems.append(startLocation)
+    tempSystems.append(startSystem)
 
     curRange = getTotalRange(tempSystems)
     if curRange < bestRange:
@@ -223,19 +226,22 @@ def bruteForceSort(systems,target,limit):
   return bestPath
 
 def randSort(systems,target,limit):
-  startLocation = systems[0]
-  del systems[0]
 
   bestRange = target
   bestPath = systems
+  startSystem = systems[0]
+  endSystem = systems[-1]
+  del systems[0]
+  del systems[-1]
+
 
   for x in range(0, limit):
 
     tempSystems = list(systems)
     shuffle(tempSystems)
-    tempSystems.append(startLocation)
+    tempSystems.append(endSystem)
     tempSystems = list(reversed(tempSystems))
-    tempSystems.append(startLocation)
+    tempSystems.append(startSystem)
 
     curRange = getTotalRange(tempSystems)
     if curRange < bestRange:
