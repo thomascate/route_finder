@@ -3,7 +3,7 @@ import argparse
 from config import *
 import itertools
 import numpy
-from random import shuffle
+from random import shuffle, choice
 import requests
 import ujson as json
 from pprint import pprint
@@ -203,32 +203,32 @@ def naiveFastSort(systems):
 def bruteForceSort(systems,target,limit):
 
   bestRange = target
-  bestPath = systems
+  bestPath = list(systems)
   startSystem = systems[0]
   endSystem = systems[-1]
   del systems[0]
   del systems[-1]
 
   for index, item in enumerate(itertools.permutations(systems)):
+
     if index > limit:
       break
 
     tempSystems = list(item)
+    tempSystems.insert(0,startSystem)
     tempSystems.append(endSystem)
-    tempSystems = list(reversed(tempSystems))
-    tempSystems.append(startSystem)
 
     curRange = getTotalRange(tempSystems)
     if curRange < bestRange:
       bestRange = curRange
-      bestPath = tempSystems
+      bestPath = list(tempSystems)
 
   return bestPath
 
 def randSort(systems,target,limit):
 
   bestRange = target
-  bestPath = systems
+  bestPath = list(systems)
   startSystem = systems[0]
   endSystem = systems[-1]
   del systems[0]
@@ -239,13 +239,39 @@ def randSort(systems,target,limit):
 
     tempSystems = list(systems)
     shuffle(tempSystems)
+    tempSystems.insert(0,startSystem)
     tempSystems.append(endSystem)
-    tempSystems = list(reversed(tempSystems))
-    tempSystems.append(startSystem)
 
     curRange = getTotalRange(tempSystems)
     if curRange < bestRange:
       bestRange = curRange
-      bestPath = tempSystems
+      bestPath = list(tempSystems)
+
+  return bestPath
+
+def swapSort(systems,target,limit):
+
+  bestRange = target
+  bestPath = list(systems)
+  startSystem = systems[0]
+  endSystem = systems[-1]
+  del systems[0]
+  del systems[-1]
+
+  for x in range(0, limit):
+
+    tempSystems = list(systems)
+    a, b = systems.index(choice(systems)), systems.index(choice(systems))
+    if not a == b:
+      systems[b], systems[a] = systems[a], systems[b]
+
+      tempSystems.insert(0,startSystem)
+      tempSystems.append(endSystem)
+  
+      curRange = getTotalRange(tempSystems)
+      if curRange < bestRange:
+        bestRange = curRange
+        bestPath = list(tempSystems)
+
 
   return bestPath

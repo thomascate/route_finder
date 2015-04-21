@@ -3,6 +3,7 @@ from functions import *
 from config import *
 from pprint import pprint
 from elasticsearch import Elasticsearch
+import random
 
 #FH = open("stations.json", "r")
 #FH2 = open("stationfix.json", "w")
@@ -98,51 +99,41 @@ print "finding closest next hop for each star"
 #first do a naive fast path to get these systems into an ok order
 pass1 = naiveFastSort(goodStars)
  #   print ( "{:18}\t=>\t{:18}\t{:10}".format(system['name'], naiveFinalSystems[0]['name'], round(curRange)) )  
+bestRange = getTotalRange( pass1 )
+print ( "{} LY from Greedy first pass ".format(bestRange) )
 
 for index,system in enumerate(pass1):
   if index < len(pass1) -1:
     curRange = getSystemDistanceWithLoc(system,pass1[index+1])
-    print ( "{:18}\t{:18}\t{:10}".format(system['name'], pass1[index+1]['name'], round(curRange)) )
+#    print ( "{:18}\t{:18}\t{:10}".format(system['name'], pass1[index+1]['name'], round(curRange)) )
 
-print ( "{} LY according to naiveFastSort".format( round( getTotalRange( pass1) ) ) )
+bestPath = list(pass1)
 
-print "trying 10000 random"
-pass2 = randSort( pass1, getTotalRange( pass1 ), 10000 )
-
-for index,system in enumerate(pass2):
-  if index < len(pass2) -1:
-    curRange = getSystemDistanceWithLoc(system,pass2[index+1])
-    print ( "{:18}\t{:18}\t{:10}".format(system['name'], pass2[index+1]['name'], round(curRange)) )
-print ( "{} LY according to randsort".format( round( getTotalRange( pass2 ) ) ) )
-
-print "trying 10000 bruteforce"
-pass3 = bruteForceSort( pass2, getTotalRange( pass2 ), 10000 )
-
-for index,system in enumerate(pass3):
-  if index < len(pass3) -1:
-    curRange = getSystemDistanceWithLoc(system,pass3[index+1])
-    print ( "{:18}\t{:18}\t{:10}".format(system['name'], pass3[index+1]['name'], round(curRange)) )
-print ( "{} LY according to bruteForceSort".format( round( getTotalRange( pass3 ) ) ) )
+print "let's just try some things"
+while True:
+  #diceRoll = 1
+  diceRoll = random.randrange(1,4)
+  if diceRoll == 1:
+    response = bruteForceSort(bestPath,bestRange,1000)
+    #print "brute"
+  elif diceRoll == 2:
+    #print "rand"
+    response = randSort(bestPath,bestRange,1000)
+  else:
+    #print "swap"
+    response = swapSort(bestPath,bestRange,1000)
 
 
-print "trying our luck, 10,000 random sorts"
-pass4 = randSort( pass3, getTotalRange( pass3 ), 100000000 )
+  if getTotalRange( response ) < bestRange:
+    for index,system in enumerate(response):
+      #print system['name']
+      if index < len(response) -1:
+        curRange = getSystemDistanceWithLoc(system,response[index+1])
+        #print type(curRange)
+        print ( "{:18}\t{:18}\t{:10}".format(system['name'], response[index+1]['name'], round(curRange)) )
+    print ("{} LY is now the Best".format(round(getTotalRange( response ))) )
+    print ""
 
-for index,system in enumerate(pass4):
-  if index < len(pass4) -1:
-    curRange = getSystemDistanceWithLoc(system,pass4[index+1])
-    print ( "{:18}\t{:18}\t{:10}".format(system['name'], pass4[index+1]['name'], round(curRange)) )
-print ( "{} LY according to randSort".format( round( getTotalRange( pass4 ) ) ) )
-
-
-print "let bruteforce play with those results"
-pass5 = bruteForceSort( pass4, getTotalRange( pass4 ), 1000000 )
-
-for index,system in enumerate(pass5):
-  if index < len(pass5) -1:
-    curRange = getSystemDistanceWithLoc(system,pass5[index+1])
-    print ( "{:18}\t{:18}\t{:10}".format(system['name'], pass5[index+1]['name'], round(curRange)) )
-
-print ( "{} LY is the best we have".format( round( getTotalRange( pass5 ) ) ) )
-
+  bestRange = getTotalRange( response )
+  bestPath = response
 exit()
