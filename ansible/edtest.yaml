@@ -1,0 +1,45 @@
+---
+- hosts: routes
+
+  remote_user: root
+
+  vars:
+    system_packages:
+      - git
+
+  tasks:
+
+  - name: add es key
+    apt_key: keyserver=pgp.mit.edu id=D88E42B4
+
+  - name: add mongo key
+    apt_key: keyserver=keyserver.ubuntu.com id=7F0CEB10
+
+  - name: add esrepo
+    apt_repository: repo='deb http://packages.elasticsearch.org/elasticsearch/1.4/debian stable main' state=present
+
+  - name: add mongo repo
+    apt_repository: repo='deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' state=present
+
+  - name: install elasticsearch
+    apt: name={{ item }} state=present
+    with_items:
+      - openjdk-7-jre-headless
+      - elasticsearch=1.4.4
+
+  - name: start elasticsearch
+    service: name=elasticsearch state=started
+
+  - name: Python headers
+    apt: name=python-dev state=present
+
+  - name: install pip
+    apt: name=python-pip state=present
+
+  - name: install python modules
+    pip: name={{ item }}
+    with_items:
+      - elasticsearch
+      - flask
+      - pymongo
+      - ujson

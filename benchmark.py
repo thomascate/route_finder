@@ -50,17 +50,22 @@ for x in range(0, tests):
     {
       '$and':
       [
-        { 'x': { '$gt': ( 0 - 10000 ) } },
-        { 'x': { '$lt': ( 0 + 10000 ) } },
-        { 'y': { '$gt': ( 0 - 10000 ) } },
-        { 'y': { '$lt': ( 0 + 10000 ) } },
-        { 'z': { '$gt': ( 0 - 10000 ) } },
-        { 'z': { '$lt': ( 0 + 10000 ) } }
+        { 'x': { '$gt': ( 0 - 100 ) } },
+        { 'x': { '$lt': ( 0 + 100 ) } },
+        { 'y': { '$gt': ( 0 - 100 ) } },
+        { 'y': { '$lt': ( 0 + 100 ) } },
+        { 'z': { '$gt': ( 0 - 100 ) } },
+        { 'z': { '$lt': ( 0 + 100 ) } }
         ]
-      } 
+      },
+      {
+        'x' : 1,
+        'y' : 1,
+        'z' : 1,
+        'name' : 1
+      }
     ):
     mongoResponse.append(system)  
-#print len(mongoResponse)
 locationEnd = time.time()
 print locationEnd - locationStart
 print (locationEnd - locationStart)/tests
@@ -110,17 +115,18 @@ for x in range(0, tests):
           'filter' : {
             'bool' : {
               'must': [
-                { 'range' : { 'x':  { "gte" : 0 - 1000 } } },
-                { 'range' : { 'x':  { "lte" : 0 + 1000 } } },
-                { 'range' : { 'y':  { "gte" : 0 - 1000 } } },
-                { 'range' : { 'y':  { "lte" : 0 + 1000 } } },
-                { 'range' : { 'z':  { "gte" : 0 - 1000 } } },
-                { 'range' : { 'z':  { "lte" : 0 + 1000 } } }
+                { 'range' : { 'x':  { "gte" : 0 - 100 } } },
+                { 'range' : { 'x':  { "lte" : 0 + 100 } } },
+                { 'range' : { 'y':  { "gte" : 0 - 100 } } },
+                { 'range' : { 'y':  { "lte" : 0 + 100 } } },
+                { 'range' : { 'z':  { "gte" : 0 - 100 } } },
+                { 'range' : { 'z':  { "lte" : 0 + 100 } } }
               ]
             }
           }
         }
-      }
+      },
+      'fields': [ 'name', 'x', 'y', 'z' ]
     }
   )
 locationEnd = time.time()
