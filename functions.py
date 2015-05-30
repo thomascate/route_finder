@@ -347,6 +347,44 @@ def bruteForceSort(systems,target,limit):
 
   return bestPath
 
+def bruteWithStart(systems,target,limit,start):
+
+  bestRange = target
+  bestPath = list(systems)
+  startSystem = systems[0]
+  endSystem = systems[-1]
+  del systems[0]
+  del systems[-1]
+
+  #this will get progressively slower
+  #not sure of a better way to handle it though
+#  for index, item in enumerate(itertools.permutations(systems)):
+#    if index > start:
+#      systems = item
+#      break
+
+  print "starting consume"
+  consume(itertools.permutations(systems), start)
+  print "done counsuming"
+  for index, item in enumerate(itertools.permutations(systems)):
+
+    if index > start + limit:
+      break
+
+    tempSystems = list(item)
+    tempSystems.insert(0,startSystem)
+    tempSystems.append(endSystem)
+
+    curRange = getTotalRange(tempSystems)
+    if curRange < bestRange:
+      bestRange = curRange
+      bestPath = list(tempSystems)
+    if index == start:
+      print curRange
+      print tempSystems[1]
+      print tempSystems[-2]
+  return bestPath
+
 #This function is similar to bruteForceSort but will run until it finds a better
 #match and return. This may run forever.
 def bruteNoLimit(systems,target):
@@ -421,3 +459,15 @@ def swapSort(systems,target,limit):
 
 
   return bestPath
+
+def consume(iterator, n):
+  "Advance the iterator n-steps ahead. If n is none, consume entirely."
+  # Use functions that consume iterators at C speed.
+  if n is None:
+    # feed the entire iterator into a zero-length deque
+    collections.deque(iterator, maxlen=0)
+  else:
+    # advance to the empty slice starting at position n
+    next(itertools.islice(iterator, n, n), None)
+
+  print iterator

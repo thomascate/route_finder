@@ -1,0 +1,1417 @@
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 29015
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 256
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 267
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 269
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 266
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 256
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 267
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 272
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 276
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 256
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 267
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 277
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:__main__:Exception on /get_job [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./enumerate.py", line 41, in send_job
+    print next(itertools.islice(itertools.permutations(data['bestPath']), data['currentNumber']-1, data['currentNumber']))
+ValueError: Indices for islice() must be None or an integer: 0 <= x <= maxint.
+INFO:werkzeug:127.0.0.1 - - [30/May/2015 01:34:05] "GET /get_job HTTP/1.1" 500 -
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 29015
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 256
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 267
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 269
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 266
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 256
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 267
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 272
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 276
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 256
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 267
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 264
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 268
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 275
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 277
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 273
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 255
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 274
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 253
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 270
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 257
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 258
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 254
+DEBUG:urllib3.util.retry:Converted retries value: 0 -> Retry(total=0, connect=None, read=None, redirect=0)
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): localhost
+DEBUG:urllib3.connectionpool:"POST /route_finder/_search HTTP/1.1" 200 271
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/May/2015 01:35:46] "GET /get_job HTTP/1.1" 200 -

@@ -33,6 +33,9 @@
   - name: Python headers
     apt: name=python-dev state=present
 
+  - name: git
+    apt: name=git state=present
+
   - name: install pip
     apt: name=python-pip state=present
 
@@ -41,5 +44,6 @@
     with_items:
       - elasticsearch
       - flask
+      - numpy
       - pymongo
       - ujson
