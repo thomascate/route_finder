@@ -77,11 +77,28 @@ def best_path():
   data = json.loads( FH.read() )
   FH.close()
 
+
   returnString = ""
-  for index,system in enumerate(data['bestPath']):
-    if index < len(data['bestPath']) -1:
-      curRange = getSystemDistanceWithLoc(system,data['bestPath'][index+1])
-      returnString += str( "{:18}\t{:18}\t{:10}\t{:4}\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
+
+  if "curl" in request.headers.get('User-Agent'):
+
+    for index,system in enumerate(data['bestPath']):
+      if index < len(data['bestPath']) -1:
+        curRange = getSystemDistanceWithLoc(system,data['bestPath'][index+1])
+        returnString += str( "{:18}\t{:18}\t{:10}\t{:4}\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
+
+  else:
+    returnString += "<!DOCTYPE html>\n"
+    returnString += "<html>\n"
+    returnString += "<body>\n"
+    returnString += "<p>\n"
+    for index,system in enumerate(data['bestPath']):
+      if index < len(data['bestPath']) -1:
+        curRange = getSystemDistanceWithLoc(system,data['bestPath'][index+1])
+        returnString += str( "{:18}\t{:18}\t{:10}\t{:4}<br>\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
+    returnString += "</p>\n"
+    returnString += "</body>\n"
+    returnString += "</html>\n"
 
   return returnString
 
