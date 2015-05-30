@@ -96,7 +96,7 @@ def best_path():
     for index,system in enumerate(data['bestPath']):
       if index < len(data['bestPath']) -1:
         curRange = getSystemDistanceWithLoc(system,data['bestPath'][index+1])
-        returnString += str( "<pre>{:18}\t{:18}\t{:10}\t{:4}<br>\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
+        returnString += str( "<pre>{:18}\t{:18}\t{:10}\t{:4}\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
     returnString += str("<pre>{} LY is now the Best<br>".format(round(getTotalRange( data['bestPath'] ))) )
     returnString += "</p>\n"
     returnString += "</body>\n"
