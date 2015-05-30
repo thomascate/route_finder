@@ -71,6 +71,20 @@ def recieve_results():
 
   return "received"
 
+@app.route('/', methods=['GET'])
+def best_path():
+  FH = open('best.json', 'r')
+  data = json.loads( FH.read() )
+  FH.close()
+
+  returnString = ""
+  for index,system in enumerate(data['bestPath']):
+    if index < len(data['bestPath']) -1:
+      curRange = getSystemDistanceWithLoc(system,data['bestPath'][index+1])
+      returnString += str( "{:18}\t{:18}\t{:10}\t{:4}\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
+
+  return returnString
+
 if __name__ == '__main__':
   app.run(host='0.0.0.0')
 
