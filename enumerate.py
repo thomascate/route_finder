@@ -38,7 +38,14 @@ def send_job():
   FH.close()
   returnData = data.copy()
   if data['currentNumber'] > 0:
-      data['bestPath'] = list(next(itertools.islice(itertools.permutations(data['bestPath']), data['currentNumber']-1, data['currentNumber'])))
+    startSystem = data['bestPath'][0]
+    endSystem = data['bestPath'][-1]
+    del data['bestPath'][0]
+    del data['bestPath'][-1]
+    data['bestPath'] = list(next(itertools.islice(itertools.permutations(data['bestPath']), data['currentNumber']-1, data['currentNumber'])))
+    data['bestPath'].insert(0,startSystem)
+    data['bestPath'].append(endSystem)
+
 
   data['currentNumber'] += 100000
   data['bestRange'] = getTotalRange( data['bestPath'] )
