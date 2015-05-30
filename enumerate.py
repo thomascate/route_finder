@@ -86,7 +86,7 @@ def best_path():
       if index < len(data['bestPath']) -1:
         curRange = getSystemDistanceWithLoc(system,data['bestPath'][index+1])
         returnString += str( "{:18}\t{:18}\t{:10}\t{:4}\n".format(system['name'], data['bestPath'][index+1]['name'], round(curRange), getRareStationFromSystem(system['id'])[1:-1] ) )
-    returnString += str("{} LY is now the Best".format(round(getTotalRange( data['bestPath'] ))) )
+    returnString += str("{} LY is now the Best\n".format(round(getTotalRange( data['bestPath'] ))) )
 
   else:
     returnString += "<!DOCTYPE html>\n"
@@ -103,6 +103,13 @@ def best_path():
     returnString += "</html>\n"
 
   return returnString
+
+@app.route('/get_best', methods=['GET'])
+def api_best_path():
+  FH = open('best.json', 'r')
+  data = FH.read()
+  FH.close()
+  return data
 
 if __name__ == '__main__':
   app.run(host='0.0.0.0')
