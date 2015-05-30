@@ -10,28 +10,31 @@ import sys
 
 requestedShutdown = False
 
+def signal_handler(signal, frame):
+  print 'You pressed Ctrl+C!'
+  global requestedShutdown
+  requestedShutdown = True
+
+signal.signal(signal.SIGINT, signal_handler)
+
 while True:
 
-  try:
-
-    #get job
-    response = requests.get( "http://localhost:5000/get_job" )  
+  #get job
+  response = requests.get( "http://localhost:5000/get_job" )  
   
-    jobData = json.loads( response.content )  
-      
-    print "starting job with startnumber: " + str(jobData['currentNumber'])
-    mypass = bruteForceSort(jobData['bestPath'],jobData['bestRange'],100000)
-    data = {}  
+  jobData = json.loads( response.content )  
+
+  print requestedShutdown      
+  print "starting job with startnumber: " + str(jobData['currentNumber'])
+  mypass = bruteForceSort(jobData['bestPath'],jobData['bestRange'],100000)
+  data = {}  
   
-    data['bestPath'] = mypass
-    data['bestRange'] = getTotalRange( mypass )
-    data['currentNumber'] = jobData['currentNumber']  
+  data['bestPath'] = mypass
+  data['bestRange'] = getTotalRange( mypass )
+  data['currentNumber'] = jobData['currentNumber']  
 
-    response = requests.post( "http://localhost:5000/put_results", data = json.dumps( data ) )
+  response = requests.post( "http://localhost:5000/put_results", data = json.dumps( data ) )
 
-    if requestedShutdown == True:
-      break
+  if requestedShutdown == True:
+    exit()
 
-  except (KeyboardInterrupt, SystemExit):
-    requestedShutdown = True
-    print "shutting down once current pass finishes"
