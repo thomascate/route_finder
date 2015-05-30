@@ -20,11 +20,10 @@ signal.signal(signal.SIGINT, signal_handler)
 while True:
 
   #get job
-  response = requests.get( "http://localhost:5000/get_job" )  
+  response = requests.get( "http://elite.luddite.nl:5000/get_job" )  
   
   jobData = json.loads( response.content )  
 
-  print requestedShutdown      
   print "starting job with startnumber: " + str(jobData['currentNumber'])
   mypass = bruteForceSort(jobData['bestPath'],jobData['bestRange'],100000)
   data = {}  
@@ -33,7 +32,7 @@ while True:
   data['bestRange'] = getTotalRange( mypass )
   data['currentNumber'] = jobData['currentNumber']  
 
-  response = requests.post( "http://localhost:5000/put_results", data = json.dumps( data ) )
+  response = requests.post( "http://elite.luddite.nl:5000/put_results", data = json.dumps( data ) )
 
   if requestedShutdown == True:
     exit()
